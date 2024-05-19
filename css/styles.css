@@ -1,0 +1,19 @@
+.contenedor-flex div{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    margin: 2%;
+}
+
+.contenedor-flex{
+    display: flex;
+}
+
+.numeros {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    margin: auto;
+    padding: auto;
+    align-items: center;
+    align-content: center;
+}
